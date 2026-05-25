@@ -1,0 +1,29 @@
+# PAN Group — Pipeline Dependencies
+# BA298A Capstone | UC Irvine | 2026
+#
+# Install: pip install -r requirements.txt
+#
+# Note: sec-edgar-downloader 0.6+ changed its API significantly.
+# Pin to 0.6.3 for stability — the Downloader(name, email, output_dir)
+# constructor is the v0.6.x interface used in downloader.py.
+
+# EDGAR
+sec-edgar-downloader==5.1.0
+
+# Data
+pandas>=2.0
+requests>=2.31
+
+# Finance (performance scoring — needed later)
+yfinance>=0.2.38
+
+# NLP (scoring pipeline — needed later)
+# numpy>=1.26        # uncomment when building nlp_scorer.py
+# scipy>=1.12        # for S3c linear regression
+# scikit-learn>=1.4  # optional, for future modelling
+
+# PDF extraction (needed when building extractor.py)
+# pdfplumber>=0.11   # uncomment when building extractor.py
+
+# LLM (needed when you have API key)
+# anthropic>=0.25    # uncomment when you have a key

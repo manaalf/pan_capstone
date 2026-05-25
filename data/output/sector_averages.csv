@@ -1,0 +1,162 @@
+sector,dimension,sector_avg
+Automobiles and Components,S1 Mission Clarity,1.64
+Automobiles and Components,S2 Longitudinal Consistency,1.2133
+Automobiles and Components,S3 NLP Signals,1.21
+Automobiles and Components,S4 Structural Embedding,1.0833
+Automobiles and Components,S5 Stakeholder Integration,1.3667
+Automobiles and Components,Purpose Score,0.4426
+Automobiles and Components,Performance Score,0.3667
+Banks,S1 Mission Clarity,1.412
+Banks,S2 Longitudinal Consistency,1.186
+Banks,S3 NLP Signals,1.139
+Banks,S4 Structural Embedding,0.5
+Banks,S5 Stakeholder Integration,1.2
+Banks,Purpose Score,0.3676
+Banks,Performance Score,0.4063
+Capital Goods,S1 Mission Clarity,1.5794
+Capital Goods,S2 Longitudinal Consistency,1.3011
+Capital Goods,S3 NLP Signals,1.1761
+Capital Goods,S4 Structural Embedding,0.9099
+Capital Goods,S5 Stakeholder Integration,1.1779
+Capital Goods,Purpose Score,0.4237
+Capital Goods,Performance Score,0.4183
+Commercial and Professional Services,S1 Mission Clarity,1.7568
+Commercial and Professional Services,S2 Longitudinal Consistency,1.342
+Commercial and Professional Services,S3 NLP Signals,1.1591
+Commercial and Professional Services,S4 Structural Embedding,0.8352
+Commercial and Professional Services,S5 Stakeholder Integration,1.1932
+Commercial and Professional Services,Purpose Score,0.4377
+Commercial and Professional Services,Performance Score,0.3788
+Consumer Discretionary Distribution and Retail,S1 Mission Clarity,1.5609
+Consumer Discretionary Distribution and Retail,S2 Longitudinal Consistency,1.3217
+Consumer Discretionary Distribution and Retail,S3 NLP Signals,1.1141
+Consumer Discretionary Distribution and Retail,S4 Structural Embedding,0.5467
+Consumer Discretionary Distribution and Retail,S5 Stakeholder Integration,1.0978
+Consumer Discretionary Distribution and Retail,Purpose Score,0.3905
+Consumer Discretionary Distribution and Retail,Performance Score,0.3726
+Consumer Durables and Apparel,S1 Mission Clarity,1.525
+Consumer Durables and Apparel,S2 Longitudinal Consistency,1.1875
+Consumer Durables and Apparel,S3 NLP Signals,1.1375
+Consumer Durables and Apparel,S4 Structural Embedding,0.7062
+Consumer Durables and Apparel,S5 Stakeholder Integration,1.125
+Consumer Durables and Apparel,Purpose Score,0.3847
+Consumer Durables and Apparel,Performance Score,0.4052
+Consumer Services,S1 Mission Clarity,1.9405
+Consumer Services,S2 Longitudinal Consistency,1.4878
+Consumer Services,S3 NLP Signals,1.0297
+Consumer Services,S4 Structural Embedding,0.9257
+Consumer Services,S5 Stakeholder Integration,1.3041
+Consumer Services,Purpose Score,0.4803
+Consumer Services,Performance Score,0.3964
+Consumer Staples Distribution and Retail,S1 Mission Clarity,1.7875
+Consumer Staples Distribution and Retail,S2 Longitudinal Consistency,1.4688
+Consumer Staples Distribution and Retail,S3 NLP Signals,1.1688
+Consumer Staples Distribution and Retail,S4 Structural Embedding,0.8125
+Consumer Staples Distribution and Retail,S5 Stakeholder Integration,1.25
+Consumer Staples Distribution and Retail,Purpose Score,0.4478
+Consumer Staples Distribution and Retail,Performance Score,0.3573
+Energy,S1 Mission Clarity,1.2471
+Energy,S2 Longitudinal Consistency,1.13
+Energy,S3 NLP Signals,0.9693
+Energy,S4 Structural Embedding,0.925
+Energy,S5 Stakeholder Integration,1.0993
+Energy,Purpose Score,0.3665
+Energy,Performance Score,0.4355
+Financial Services,S1 Mission Clarity,1.7031
+Financial Services,S2 Longitudinal Consistency,1.4092
+Financial Services,S3 NLP Signals,1.18
+Financial Services,S4 Structural Embedding,0.7846
+Financial Services,S5 Stakeholder Integration,1.2269
+Financial Services,Purpose Score,0.4374
+Financial Services,Performance Score,0.4046
+"Food, Beverage and Tobacco",S1 Mission Clarity,1.7125
+"Food, Beverage and Tobacco",S2 Longitudinal Consistency,1.4458
+"Food, Beverage and Tobacco",S3 NLP Signals,1.1354
+"Food, Beverage and Tobacco",S4 Structural Embedding,0.9583
+"Food, Beverage and Tobacco",S5 Stakeholder Integration,1.3229
+"Food, Beverage and Tobacco",Purpose Score,0.4525
+"Food, Beverage and Tobacco",Performance Score,0.3517
+Health Care Equipment and Services,S1 Mission Clarity,1.9191
+Health Care Equipment and Services,S2 Longitudinal Consistency,1.5745
+Health Care Equipment and Services,S3 NLP Signals,1.1596
+Health Care Equipment and Services,S4 Structural Embedding,1.0213
+Health Care Equipment and Services,S5 Stakeholder Integration,1.2872
+Health Care Equipment and Services,Purpose Score,0.4874
+Health Care Equipment and Services,Performance Score,0.3661
+Household and Personal Products,S1 Mission Clarity,1.5462
+Household and Personal Products,S2 Longitudinal Consistency,1.2077
+Household and Personal Products,S3 NLP Signals,1.0654
+Household and Personal Products,S4 Structural Embedding,0.7308
+Household and Personal Products,S5 Stakeholder Integration,1.2115
+Household and Personal Products,Purpose Score,0.4225
+Household and Personal Products,Performance Score,0.2974
+Insurance,S1 Mission Clarity,1.6082
+Insurance,S2 Longitudinal Consistency,1.298
+Insurance,S3 NLP Signals,1.0612
+Insurance,S4 Structural Embedding,0.6276
+Insurance,S5 Stakeholder Integration,1.1204
+Insurance,Purpose Score,0.3926
+Insurance,Performance Score,0.416
+Materials,S1 Mission Clarity,1.5488
+Materials,S2 Longitudinal Consistency,1.1975
+Materials,S3 NLP Signals,1.1662
+Materials,S4 Structural Embedding,1.0156
+Materials,S5 Stakeholder Integration,1.2262
+Materials,Purpose Score,0.4193
+Materials,Performance Score,0.358
+Media and Entertainment,S1 Mission Clarity,1.645
+Media and Entertainment,S2 Longitudinal Consistency,1.185
+Media and Entertainment,S3 NLP Signals,1.0625
+Media and Entertainment,S4 Structural Embedding,0.5375
+Media and Entertainment,S5 Stakeholder Integration,1.15
+Media and Entertainment,Purpose Score,0.3914
+Media and Entertainment,Performance Score,0.2783
+"Pharmaceuticals, Biotechnology and Life Sciences",S1 Mission Clarity,1.7565
+"Pharmaceuticals, Biotechnology and Life Sciences",S2 Longitudinal Consistency,1.3217
+"Pharmaceuticals, Biotechnology and Life Sciences",S3 NLP Signals,1.1543
+"Pharmaceuticals, Biotechnology and Life Sciences",S4 Structural Embedding,0.8804
+"Pharmaceuticals, Biotechnology and Life Sciences",S5 Stakeholder Integration,1.337
+"Pharmaceuticals, Biotechnology and Life Sciences",Purpose Score,0.4475
+"Pharmaceuticals, Biotechnology and Life Sciences",Performance Score,0.4359
+Semiconductors and Semiconductor Equipment,S1 Mission Clarity,0.6667
+Semiconductors and Semiconductor Equipment,S2 Longitudinal Consistency,0.3333
+Semiconductors and Semiconductor Equipment,S3 NLP Signals,0.9333
+Semiconductors and Semiconductor Equipment,S4 Structural Embedding,0.1667
+Semiconductors and Semiconductor Equipment,S5 Stakeholder Integration,0.75
+Semiconductors and Semiconductor Equipment,Purpose Score,0.1798
+Semiconductors and Semiconductor Equipment,Performance Score,0.4389
+Software and Services,S1 Mission Clarity,1.6931
+Software and Services,S2 Longitudinal Consistency,1.3603
+Software and Services,S3 NLP Signals,1.1707
+Software and Services,S4 Structural Embedding,0.6724
+Software and Services,S5 Stakeholder Integration,1.1207
+Software and Services,Purpose Score,0.4002
+Software and Services,Performance Score,0.408
+Technology Hardware and Equipment,S1 Mission Clarity,1.6464
+Technology Hardware and Equipment,S2 Longitudinal Consistency,1.3804
+Technology Hardware and Equipment,S3 NLP Signals,1.1607
+Technology Hardware and Equipment,S4 Structural Embedding,0.7875
+Technology Hardware and Equipment,S5 Stakeholder Integration,1.1518
+Technology Hardware and Equipment,Purpose Score,0.4121
+Technology Hardware and Equipment,Performance Score,0.4351
+Telecommunication Services,S1 Mission Clarity,1.66
+Telecommunication Services,S2 Longitudinal Consistency,1.24
+Telecommunication Services,S3 NLP Signals,1.45
+Telecommunication Services,S4 Structural Embedding,0.75
+Telecommunication Services,S5 Stakeholder Integration,1.2
+Telecommunication Services,Purpose Score,0.375
+Telecommunication Services,Performance Score,0.1183
+Transportation,S1 Mission Clarity,1.3478
+Transportation,S2 Longitudinal Consistency,1.2087
+Transportation,S3 NLP Signals,0.837
+Transportation,S4 Structural Embedding,0.8587
+Transportation,S5 Stakeholder Integration,1.1196
+Transportation,Purpose Score,0.3744
+Transportation,Performance Score,0.4134
+Utilities,S1 Mission Clarity,1.6367
+Utilities,S2 Longitudinal Consistency,1.3388
+Utilities,S3 NLP Signals,1.1469
+Utilities,S4 Structural Embedding,1.3765
+Utilities,S5 Stakeholder Integration,1.3694
+Utilities,Purpose Score,0.4899
+Utilities,Performance Score,0.3864

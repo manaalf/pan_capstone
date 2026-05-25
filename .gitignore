@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+data/filings/
+data/llm/
+logs/
+*.log
+.DS_Store
+**/.DS_Store
+master_dataset.csv
+master_dataset_enriched.csv
+.ipynb_checkpoints/
+.env
