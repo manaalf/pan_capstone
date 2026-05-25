@@ -43,7 +43,7 @@ Measured at time T (2015–2020) across five dimensions:
 | Penalties | Up to −4.5 pts for vagueness, greenwashing, rebranding | — |
 | Bonuses | Up to +2.5 pts for accountability, adversity resilience | — |
 
-**Sources:** SEC EDGAR (10-K, DEF 14A, 20-F for foreign filers), earnings call transcripts, Wayback Machine mission snapshots  
+**Sources:** SEC EDGAR (10-K, DEF 14A, 20-F for foreign filers), earnings call transcripts 
 **Scoring method:** ANTHROPIC OPUS 4.7 LLM pipeline + Python NLP + manual validation
 
 ### Performance Score (0.0 – 1.0)
@@ -145,8 +145,7 @@ pan_capstone/
 |---|---|---|
 | SEC EDGAR | 10-K, DEF 14A (domestic); 20-F (foreign filers) | Purpose scoring S1–S5 |
 | S&P Capital IQ | Earnings call transcripts, financial metrics | NLP signals, performance scoring |
-| Wayback Machine | Annual mission statement snapshots 2010–2024 | S2 longitudinal consistency |
-| Yahoo Finance / yfinance | TSR, ROA, EBITDA margin, Revenue | Performance scoring |
+| Capital IQ Plugin | TSR, ROA, EBITDA margin, Revenue | Performance scoring |
 | Mergent Intellect | NYSE company universe, master ticker list | Master company list |
 | Nexis Uni | Rebranding / purpose-shift news events | Penalty validation |
 
